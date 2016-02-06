@@ -20,9 +20,14 @@
     <orderEntry type="library" exported="" name="Gradle: com.google.auto.service:auto-service:1.0-rc2" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.auto:auto-common:0.3" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.projectlombok:lombok:1.16.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.testing.compile:compile-testing:0.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.truth:truth:0.28" level="project" />
   </component>
   <component name="sonarModuleSettings">
+    <option name="alternativeWorkingDirPath" value="" />
     <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
     <option name="serverName" value="&lt;PROJECT&gt;" />
+    <option name="useAlternativeWorkingDir" value="false" />
+    <option name="workingDirSelection" value="&lt;MODULE&gt;" />
   </component>
 </module>
