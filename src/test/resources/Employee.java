@@ -1,12 +1,12 @@
-package test.test;
+package com.solvevolve.atp.annotationprocessing;
 
-import com.solvevolve.atp.annotationprocessing.Builder;
 import java.util.Collection;
 
 @Builder
-public class User {
+public class Employee {
 
   private String userName;
+  private String emailId;
   private Collection<String> phoneNumbers;
 
   public String getUserName() {
@@ -17,6 +17,14 @@ public class User {
     this.userName = userName;
   }
 
+  public String getEmailId() {
+    return emailId;
+  }
+
+  public void setEmailId(String emailId) {
+    this.emailId = emailId;
+  }
+
   public Collection<String> getPhoneNumbers() {
     return phoneNumbers;
   }
@@ -25,3 +33,4 @@ public class User {
     this.phoneNumbers = phoneNumbers;
   }
 }
+

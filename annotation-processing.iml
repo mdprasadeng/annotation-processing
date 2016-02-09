@@ -22,6 +22,16 @@
     <orderEntry type="library" exported="" name="Gradle: org.projectlombok:lombok:1.16.6" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.testing.compile:compile-testing:0.8" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.truth:truth:0.28" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.squareup:javapoet:1.5.1" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: tools">
+        <CLASSES>
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
   <component name="sonarModuleSettings">
     <option name="alternativeWorkingDirPath" value="" />
