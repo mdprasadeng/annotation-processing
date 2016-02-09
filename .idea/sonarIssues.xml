@@ -68,6 +68,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/solvevolve/atp/annotationprocessing/BuilderModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/solvevolve/atp/annotations/jdk/Seller.java">
           <value>
             <set />
@@ -204,6 +209,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/solvevolve/atp/test/CopyConstructorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/UserBuilder.java">
           <value>
             <set />
           </value>
