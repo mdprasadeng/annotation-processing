@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/dawn/seller-mobile-api/seller-mobile/src/main/java/fk/sp/sa/mapi/sellermobile/models/session/WDSessionConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/dawn/seller-mobile-api/seller-mobile/src/main/resources/migrations/20160201-alter-device-os-version-type.sql">
           <value>
             <set />
@@ -89,6 +94,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/solvevolve/atp/annotations/jdk/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/solvevolve/atp/annotations/lombok/Company.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/solvevolve/atp/annotations/lombok/Employee.java">
           <value>
             <set />
           </value>

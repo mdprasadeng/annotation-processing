@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.solvevolve.test.BuilderAnnotationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-02-09T18:25:14" hostname="durgaprasad.local" time="0.921">
-  <properties/>
-  <testcase name="processorTest" classname="com.solvevolve.test.BuilderAnnotationTest" time="0.921"/>
-  <system-out><![CDATA[creating file
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -27,11 +27,17 @@
       <library name="Gradle: tools">
         <CLASSES>
           <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/tools.jar!/" />
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/tools.jar!/" />
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/tools.jar!/" />
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/tools.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" exported="" name="Gradle: org.slf4j:slf4j-log4j12:1.7.14" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.slf4j:slf4j-api:1.7.14" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: log4j:log4j:1.2.17" level="project" />
   </component>
   <component name="sonarModuleSettings">
     <option name="alternativeWorkingDirPath" value="" />
